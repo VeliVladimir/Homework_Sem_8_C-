@@ -1,0 +1,15 @@
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\bin\Debug\net6.0\Task_58.exe
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\bin\Debug\net6.0\Task_58.deps.json
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\bin\Debug\net6.0\Task_58.runtimeconfig.json
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\bin\Debug\net6.0\Task_58.dll
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\bin\Debug\net6.0\Task_58.pdb
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.csproj.AssemblyReference.cache
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfoInputs.cache
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfo.cs
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.dll
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\refint\Task_58.dll
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.pdb
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\Task_58.genruntimeconfig.cache
+C:\Users\veliv\OneDrive\Рабочий стол\GB\Homework_Sem_8_C#\Task_58\obj\Debug\net6.0\ref\Task_58.dll
